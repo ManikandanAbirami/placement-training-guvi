@@ -1,0 +1,16 @@
+FizzBuzz
+
+Write a program that cosole logs the numbers from 1 to n.
+
+1. For multiples of three print "fizz" instead of the number
+2. For multiples of five print "buzz"
+3. For numbers which are multiples of both three and five print "fizzbuzz"
+
+Example:
+fizzBuzz(5);
+// Output:
+// 1
+// 2
+// fizz
+// 4
+// buzz
